@@ -62,7 +62,6 @@ Quality is not only about finding bugs — it is about understanding system beha
 Location: Serbia  
 LinkedIn: www.linkedin.com/in/mirjanaran  
 Email: mirjanarankovic155@gmail.com
-## Hi there 👋
 
 <!--
 **mirjana-qa/mirjana-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
